@@ -1,0 +1,199 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i';
+
+body{
+    font-family: 'Open Sans';
+}
+
+div{
+	
+    padding: 1px;
+    
+
+}
+h1{
+	font-weight: 800;
+	font-size: 35px; 
+	margin-left: 80px;
+}
+
+
+h2{
+	
+	font-size: 40px;
+	text-align: center;
+	margin-top: 55px;
+	font-weight:600;
+
+
+
+
+}
+
+#section-1{
+	color: white;
+	height: 450px;
+	background-image: url("http://i.imgur.com/DZ5ASNs.jpg");
+	background-repeat: no-repeat;
+    background-position: center;
+    width: 100%; 
+
+
+}
+
+#relaxr {
+	text-align: left;
+	margin-left: 0.05%;
+	font-weight: 800; 
+
+	
+}
+ 
+
+#tap{
+	text-align: center;
+	font-weight:600;
+
+}
+
+
+#get-it{
+    background-color: #f9e42e; 
+    border-radius: 5px; 
+    width: 200px;
+    height: 50px;
+    color: black; 
+    font-weight: 800;
+    font-size: 14px;
+    margin: 70px auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+  }
+
+
+
+h3{
+	
+	color:#033048;
+	font-weight: 600;
+	font-size:20px;
+	margin-left: 80px;
+	line-height: 50px;
+
+}
+
+#benefits{
+	color: #606161;
+	margin-left: 80px;
+	line-height: 50px;
+
+}
+
+li{
+	color: #606161;
+	margin-left: 80px;
+	line-height: 40px;
+
+}
+#section-2{
+    background-color: #f2f6f5;
+    width: 100%;
+    padding: 20px;
+}
+
+#section-3{
+	background-image: url("http://i.imgur.com/pxu8XpO.jpg");
+	color: white;
+	width: 100%; 
+	padding: 20px;
+
+	
+}
+
+#about-amanda{
+	font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 60%;
+    font-weight: 300;
+
+}
+
+h4{
+	 font-weight: 600;
+	 font-size: 18px; 
+	 text-align: center;
+     vertical-align: middle;
+     line-height: 90px;
+
+}
+
+
+#section-4{
+	background-color: #f9e42e;
+	width: 100%; 
+	height: 80%;
+	padding: 40px;
+	line-height: 2.0;
+
+}
+
+#sign-up{
+	font-weight: 800;
+	font-size: 12px;
+	color: white;
+	border-radius: 5px;
+	background-color: #033048; 
+	text-align: center;
+    vertical-align: middle;
+    margin-left: 35%;
+    width: 200px;
+    padding: 10px;
+}
+
+#section-5{
+	background-color: black;
+    color: #f9e42e;
+	font-weight: 800;
+	font-size: 24px; 
+	width: 100%; 
+	padding: 30px;
+	text-align: center;
+
+}
+#secondrelaxr{
+	margin-right: 7.5%
+}
+#section-6{
+	color: white;
+	background-color: black;
+	height: 128px;
+	width: 100%; 
+
+
+}
+
+#social{
+	height: 20px;
+	display: inline-block;
+    margin-left: 500px;
+    padding-top: 50px;
+   
+    
+}
+
+#social2{
+	height: 20px;
+	display: inline-block;
+    margin-left: 15px;
+   
+    
+}
+
+footer{
+	background-color: black; 
+	color: white; 
+	text-align: center;
+	width: 100%; 
+}
