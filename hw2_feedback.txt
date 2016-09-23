@@ -1,0 +1,20 @@
+Use HTML5 structural elements (nav, header, footer)
+ - Good!
+Use a CSS Reset file in addition to your style.css file to style the page
+ - Good! 
+Use IDs and Classes to to select and style elements on the page
+ - Good use of IDs to select and style content. See additional comments below.
+Follow naming conventions, maintain consistency across .html and .css files and use best practices for naming IDs and Classes
+ - Most of your IDs follow dash-case syntax, which is good, but there are a couple (secondrelaxr & section2) that don't follow this naming scheme. Try keep all naming consistent.
+Indent nested elements to increase your code's readability
+ - Make sure your HTML indentation is based on parent/child relationships. This is mostly right in your assignment, but there are several places where the indentation is off. This makes it difficult to identify parent/child relationships and also makes it hard to spot missing closing tags.
+Use CSS display and float to get the layout correct
+ - Good!
+
+Additional Comments:
+
+The page looks good! Good use of spacing and margins. Good attention to detail with the colors, spacing, and fonts. One issue I see is that different sections have different widths. This appears to be due to inconsistent padding. Using the box-sizing: border-box rule can alleviate most of those problems.
+
+Try to keep your IDs descriptive, instead of using names section-1, section-2, etc. This will help keep the elements and styles clear for your and other developers. Also, with the numbering scheme, you're going to have an annoying problem on your hands when the designers come back and tell you they want to add a section between section-1 and section-2!
+
+It looks like your social media icons are positioned using margins. img tags, div tags, and anything else can be centered using the text-align: center rule. It's not just for text.
