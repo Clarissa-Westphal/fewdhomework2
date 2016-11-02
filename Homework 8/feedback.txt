@@ -1,0 +1,11 @@
+Use at least three different types of HTML5 form elements
+ - Good!
+Style forms lightly using CSS
+ - Good!
+
+ Additional Feedback:
+  - Nice job styling and using the 'placeholder' attribe in your input fields.
+
+  - With email fields you can use "input type='email'" instead of "input type='text'" to get automatic validation and better mobile browser support.
+
+  - Input fields like 'State', which have a known list of acceptable values are better represented with 'select' controls. If you don't want to write out all the options, you can usually find prewritten snippets of html for these kinds of common elements. (e.g. http://www.freeformatter.com/usa-state-list-html-select.html)
